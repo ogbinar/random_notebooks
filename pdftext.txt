@@ -1,0 +1,59 @@
+DataTables example - PDF - image
+Name Position OfficeAgeStart dateSalary
+Airi SatouAccountant Tokyo332008-11-28$162,700
+Angelica RamosChief Executive Officer (CEO)London472009-10-09$1,200,000
+Ashton CoxJunior Technical AuthorSan Francisco662009-01-12$86,000
+Bradley GreerSoftware Engineer London412012-10-13$132,000
+Brenden WagnerSoftware Engineer San Francisco282011-06-07$206,850
+Brielle WilliamsonIntegration Specialist New York612012-12-02$372,000
+Bruno NashSoftware Engineer London382011-05-03$163,500
+Caesar VancePre-Sales Support New York212011-12-12$106,450
+Cara StevensSales Assistant New York462011-12-06$145,600
+Cedric KellySenior Javascript DeveloperEdinburgh222012-03-29$433,060
+Charde MarshallRegional Director San Francisco362008-10-16$470,600
+Colleen HurstJavascript Developer San Francisco392009-09-15$205,500
+Dai RiosPersonnel Lead Edinburgh352012-09-26$217,500
+Donna SniderCustomer Support New York272011-01-25$112,000
+Doris WilderSales Assistant Sydney232010-09-20$85,600
+Finn CamachoSupport Engineer San Francisco472009-07-07$87,500
+Fiona GreenChief Operating Officer (COO)San Francisco482010-03-11$850,000
+Garrett WintersAccountant Tokyo632011-07-25$170,750
+Gavin CortezTeam Leader San Francisco222008-10-26$235,500
+Gavin JoyceDeveloper Edinburgh422010-12-22$92,575
+Gloria LittleSystems Administrator New York592009-04-10$237,500
+Haley KennedySenior Marketing DesignerLondon432012-12-18$313,500
+Hermione ButlerRegional Director London472011-03-21$356,250
+Herrod ChandlerSales Assistant San Francisco592012-08-06$137,500
+Hope FuentesSecretary San Francisco412010-02-12$109,850
+Howard HatfieldOffice Manager San Francisco512008-12-16$164,500
+Jackson BradshawDirector New York652008-09-26$645,750
+Jena GainesOffice Manager London302008-12-19$90,560
+Jenette CaldwellDevelopment LeadNew York302011-09-03$345,000
+Jennifer AcostaJunior Javascript DeveloperEdinburgh432013-02-01$75,650
+Jennifer ChangRegional Director Singapore282010-11-14$357,650
+Jonas AlexanderDeveloper San Francisco302010-07-14$86,500
+Lael GreerSystems Administrator London212009-02-27$103,500
+Martena MccrayPost-Sales support Edinburgh462011-03-09$324,050
+Michael BruceJavascript Developer Singapore292011-06-27$183,000
+Michael SilvaMarketing Designer London662012-11-27$198,500
+Michelle HouseIntegration Specialist Sydney372011-06-02$95,400
+Olivia LiangSupport Engineer Singapore642011-02-03$234,500Name Position OfficeAgeStart dateSalary
+Paul ByrdChief Financial Officer (CFO)New York642010-06-09$725,000
+Prescott BartlettTechnical Author London272011-05-07$145,000
+Quinn FlynnSupport Lead Edinburgh222013-03-03$342,000
+Rhona DavidsonIntegration Specialist Tokyo552010-10-14$327,900
+Sakura YamamotoSupport Engineer Tokyo372009-08-19$139,575
+Serge BaldwinData Coordinator Singapore642012-04-09$138,575
+Shad DeckerRegional Director Edinburgh512008-11-13$183,000
+Shou ItouRegional Marketing Tokyo202011-08-14$163,000
+Sonya FrostSoftware Engineer Edinburgh232008-12-13$103,600
+Suki BurksDeveloper London532009-10-22$114,500
+Tatyana FitzpatrickRegional Director London192010-03-17$385,750
+Thor WaltonDeveloper New York612013-08-11$98,540
+Tiger NixonSystem Architect Edinburgh612011-04-25$320,800
+Timothy MooneyOffice Manager London372008-12-11$136,200
+Unity ButlerMarketing Designer San Francisco472009-12-09$85,675
+Vivian HarrellFinancial Controller San Francisco622009-02-14$452,500
+Yuri BerryChief Marketing Officer (CMO)New York402009-06-25$675,000
+Zenaida FrankSoftware Engineer New York632010-01-04$125,250
+Zorita SerranoSoftware Engineer San Francisco562012-06-01$115,000
